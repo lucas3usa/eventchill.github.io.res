@@ -1,44 +1,41 @@
 [
-  {
-    name: 'Lucas Ng',
-    title: 'Chief Executive Officer (CEO)',
-    experience: 'Over 38 years in the hydrocarbon processing industry',
-    skills: [
-      'Process safety & asset integrity',
-      'Fire safety & security',
-      'Energy efficiency & sustainability',
-      'Strategic leadership & team management',
-    ],
-    description:
-      'Lucas Ng has extensive experience in the petrochemical industry, advocating for process safety, asset reliability, and energy efficiency. His leadership ensures operational excellence and sustainable growth.',
-    image: '/images/lucas.png', // Updated image path
-  },
-  {
-    name: 'Paul Wong',
-    title: 'Chief Financial Officer (CFO)',
-    experience: 'Over 25 years in finance and strategic advisory',
-    skills: [
-      'Financial planning & risk management',
-      'Corporate strategy & investment',
-      'Business growth & cost optimization',
-      'Leadership & executive decision-making',
-    ],
-    description:
-      'Paul Wong is a seasoned finance executive with expertise in corporate strategy, investment planning, and risk management. His leadership drives financial stability and business expansion.',
-    image: '/images/paul.png', // Updated image path
-  },
-  {
-    name: 'Kevin Fong',
-    title: 'Chief Operating Officer (COO)',
-    experience: 'Over 20 years in digital transformation & operations',
-    skills: [
-      'AI & data-driven strategy',
-      'Global operations & efficiency',
-      'Executive partnerships & innovation',
-      'Cybersecurity & risk management',
-    ],
-    description:
-      'Kevin Fong is a dynamic leader specializing in digital transformation, AI-driven strategies, and operational efficiency. His expertise ensures seamless execution and innovation across global markets.',
-    image: '/images/kevin.png', // Updated image path
-  },
+    {
+        "name": "Lucas Ng",
+        "title": "Chief Executive Officer (CEO)",
+        "experience": "Over 38 years in the hydrocarbon processing industry",
+        "skills": [
+            "Process safety & asset integrity",
+            "Fire safety & security",
+            "Energy efficiency & sustainability",
+            "Strategic leadership & team management"
+        ],
+        "description": "Lucas Ng has extensive experience in the petrochemical industry, advocating for process safety, asset reliability, and energy efficiency. His leadership ensures operational excellence and sustainable growth.",
+        "image": "/images/lucas.png"
+    },
+    {
+        "name": "Paul Wong",
+        "title": "Chief Financial Officer (CFO)",
+        "experience": "Over 25 years in finance and strategic advisory",
+        "skills": [
+            "Financial planning & risk management",
+            "Corporate strategy & investment",
+            "Business growth & cost optimization",
+            "Leadership & executive decision-making"
+        ],
+        "description": "Paul Wong is a seasoned finance executive with expertise in corporate strategy, investment planning, and risk management. His leadership drives financial stability and business expansion.",
+        "image": "/images/paul.png"
+    },
+    {
+        "name": "Kevin Fong",
+        "title": "Chief Operating Officer (COO)",
+        "experience": "Over 20 years in digital transformation & operations",
+        "skills": [
+            "AI & data-driven strategy",
+            "Global operations & efficiency",
+            "Executive partnerships & innovation",
+            "Cybersecurity & risk management"
+        ],
+        "description": "Kevin Fong is a dynamic leader specializing in digital transformation, AI-driven strategies, and operational efficiency. His expertise ensures seamless execution and innovation across global markets.",
+        "image": "/images/kevin.png"
+    }
 ]
